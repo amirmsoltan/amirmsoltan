@@ -15,10 +15,18 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Specialized in</h2>
+
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,php,mysql,bootstrap,nodejs,html,css,cpp,cs,py,qt,windows,vscode,pr,ps" />
+    <img src="https://skillicons.dev/icons?i=js,react,php,mysql,html,css,cpp" />
+</div>
+
+<h2 align="center">Basic knowledge</h2>
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,cs,py,qt,windows,pr,ps" />
 </div>
 
 <hr/>
